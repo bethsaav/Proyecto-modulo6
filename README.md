@@ -1,6 +1,6 @@
 # **EJERCICIO DE LA PRÁCTICA 6**
 
-Esta practica me permitio hacer mi primer pagina web y usar GitHub
+Este proyecto me brindó la oportunidad de realizar mi primera pagina web y usar GitHub.
 
 ## ¿Qué se puede aprender en esta página?
 
